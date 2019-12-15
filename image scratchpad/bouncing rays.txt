@@ -1,0 +1,3 @@
+We need a system to keep track of the rays and which pixels they correspond to.
+
+USE A STACK
