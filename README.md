@@ -1,5 +1,5 @@
 # Jay ray-tracing renderer
-This is a second attempt at creating a Ray-tracing renderer in Java to render photorealistic scenes. It uses a ray-casting system to cast rays from each pixel to render the scene.
+This is a second attempt at creating a Ray-tracing renderer in Java to render photorealistic scenes. It uses a ray-casting system to cast rays from each pixel to render the scene. It is a very old proejct.
 
 It can only render primitives, such as spheres. I had initially planned on implementing the ability to render complex geometry from .obj files, for example, but insurmountable bugs with the renderer cut those plans short.
 
