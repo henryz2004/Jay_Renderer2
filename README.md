@@ -14,7 +14,7 @@ Some sample code for using this library is uncluded under [/src](/src).
 To use this package, you first import the apppropriate classes. All the essential classes are in `jayrender.geometry`, `jayrender.scene`, and `jayrender.util`.
 ```java
 import jayrender.geometry.*;
-import jayredner.scene.*;
+import jayrender.scene.*;
 import jayrender.util.*;
 ```
 
